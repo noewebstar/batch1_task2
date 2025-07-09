@@ -1,0 +1,16 @@
+.container{
+    background-color: #e2e6ea;
+    padding-top: 20%;
+}
+.row{
+    padding-left:5%;
+    padding-right:5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.container-main{
+    padding-left: 5%; 
+    padding-right: 5%;
+    padding-top: 7%; 
+    padding-bottom: 7%;
+}
